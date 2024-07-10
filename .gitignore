@@ -3,3 +3,4 @@
 .venv
 labs/runs/*
 labs/dataset
+*/runs/*
